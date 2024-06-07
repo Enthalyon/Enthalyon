@@ -24,7 +24,6 @@ Passionate about design, technology and learning.
 <a href="https://angular.io"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/></a>
 <a href="https://es.react.dev"><img src="https://www.svgrepo.com/show/452092/react.svg" alt="" width="45" height="45"/></a>
 <a href="https://vuejs.org"><img src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png" alt="" width="80" height="50"/></a>
-</br>
 <a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png" alt="" width="120" height="35"/></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="" width="80" height="40"/></a>
 <a href="https://balsamiq.com"><img src="https://balsamiq.com/assets/company/brandassets/balsamiq-logo-screen-1000x500.png" alt="" width="73" height="45"/></a>
