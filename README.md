@@ -30,7 +30,7 @@ Passionate about design, technology and learning.
 <a href="https://www.figma.com"><img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="" width="50" height="40"/></a>
 <a href="https://www.adobe.com/la/products/illustrator.html?gclid=CjwKCAiAvK2bBhB8EiwAZUbP1HfRJpPKP6LCKKFjth91geAfvq-32BvJiOFS6HqstsSOlF1ElIo-8hoCKu8QAvD_BwE&sdid=KQPQL&mv=search&ef_id=CjwKCAiAvK2bBhB8EiwAZUbP1HfRJpPKP6LCKKFjth91geAfvq-32BvJiOFS6HqstsSOlF1ElIo-8hoCKu8QAvD_BwE:G:s&s_kwcid=AL!3085!3!442303212642!e!!g!!illustrator!9499870682!97813414318"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" alt="" width="40" height="40"/></a>
 <a href="https://www.adobe.com/la/products/photoshop.html?gclid=CjwKCAiAvK2bBhB8EiwAZUbP1MMSoctTZzLst7SDeH1DiDBojObsghA7pBNcwGlTUQviL9lQLVBTaxoCAxcQAvD_BwE&sdid=KQPQZ&mv=search&ef_id=CjwKCAiAvK2bBhB8EiwAZUbP1MMSoctTZzLst7SDeH1DiDBojObsghA7pBNcwGlTUQviL9lQLVBTaxoCAxcQAvD_BwE:G:s&s_kwcid=AL!3085!3!476816453885!b!!g!!%2Bphotoshop!11413140171!115418617427"><img src="https://icones.pro/wp-content/uploads/2021/07/logo-photoshop-original.png" alt="" width="40" height="40"/></a>
-<a href="https://www.adobe.com/co/products/indesign.html"><img src="https://w7.pngwing.com/pngs/252/814/png-transparent-adobe-indesign-software-computer-app-design-software-adobe-family-software-icon.png" alt="" width="40" height="40"/></a>
+<a href="https://www.adobe.com/co/products/indesign.html"><img src="https://w7.pngwing.com/pngs/31/839/png-transparent-adobe-indesign-logo-logos-logos-and-brands-icon.png" alt="" width="40" height="40"/></a>
 </div>
 <hr />
 <div align="center">
