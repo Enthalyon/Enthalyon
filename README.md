@@ -21,16 +21,18 @@ Passionate about design, technology and learning.
 <a href="https://github.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://www.heroku.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="" width="60" height="60"/></a>
 <a href="https://angular.io"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png" alt="" width="60" height="30"/></a>
-<a href="https://vuejs.org"><img src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png" alt="" width="70" height="40"/></a>
+</br>
+<a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png" alt="" width="100" height="35"/></a>
+<a href="https://vuejs.org"><img src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png" alt="" width="80" height="50"/></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="" width="70" height="40"/></a>
 <a href="https://balsamiq.com"><img src="https://balsamiq.com/assets/company/brandassets/balsamiq-logo-screen-1000x500.png" alt="" width="70" height="40"/></a>
 <a href="https://www.figma.com"><img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="" width="50" height="40"/></a>
-<a href="https://www.adobe.com/la/products/illustrator.html?gclid=CjwKCAiAvK2bBhB8EiwAZUbP1HfRJpPKP6LCKKFjth91geAfvq-32BvJiOFS6HqstsSOlF1ElIo-8hoCKu8QAvD_BwE&sdid=KQPQL&mv=search&ef_id=CjwKCAiAvK2bBhB8EiwAZUbP1HfRJpPKP6LCKKFjth91geAfvq-32BvJiOFS6HqstsSOlF1ElIo-8hoCKu8QAvD_BwE:G:s&s_kwcid=AL!3085!3!442303212642!e!!g!!illustrator!9499870682!97813414318"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" alt="" width="40" height="40"/></a>
-<a href="https://www.adobe.com/la/products/photoshop.html?gclid=CjwKCAiAvK2bBhB8EiwAZUbP1MMSoctTZzLst7SDeH1DiDBojObsghA7pBNcwGlTUQviL9lQLVBTaxoCAxcQAvD_BwE&sdid=KQPQZ&mv=search&ef_id=CjwKCAiAvK2bBhB8EiwAZUbP1MMSoctTZzLst7SDeH1DiDBojObsghA7pBNcwGlTUQviL9lQLVBTaxoCAxcQAvD_BwE:G:s&s_kwcid=AL!3085!3!476816453885!b!!g!!%2Bphotoshop!11413140171!115418617427"><img src="https://icones.pro/wp-content/uploads/2021/07/logo-photoshop-original.png" alt="" width="40" height="40"/></a>
-<a href="https://www.adobe.com/co/products/indesign.html"><img src="https://w7.pngwing.com/pngs/31/839/png-transparent-adobe-indesign-logo-logos-logos-and-brands-icon.png" alt="" width="40" height="40"/></a>
+<a href="https://www.adobe.com/la/products/illustrator.html?gclid=CjwKCAiAvK2bBhB8EiwAZUbP1HfRJpPKP6LCKKFjth91geAfvq-32BvJiOFS6HqstsSOlF1ElIo-8hoCKu8QAvD_BwE&sdid=KQPQL&mv=search&ef_id=CjwKCAiAvK2bBhB8EiwAZUbP1HfRJpPKP6LCKKFjth91geAfvq-32BvJiOFS6HqstsSOlF1ElIo-8hoCKu8QAvD_BwE:G:s&s_kwcid=AL!3085!3!442303212642!e!!g!!illustrator!9499870682!97813414318"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" alt="" width="40" height="40"/></a>
+<a href="https://www.adobe.com/la/products/photoshop.html?gclid=CjwKCAiAvK2bBhB8EiwAZUbP1MMSoctTZzLst7SDeH1DiDBojObsghA7pBNcwGlTUQviL9lQLVBTaxoCAxcQAvD_BwE&sdid=KQPQZ&mv=search&ef_id=CjwKCAiAvK2bBhB8EiwAZUbP1MMSoctTZzLst7SDeH1DiDBojObsghA7pBNcwGlTUQviL9lQLVBTaxoCAxcQAvD_BwE:G:s&s_kwcid=AL!3085!3!476816453885!b!!g!!%2Bphotoshop!11413140171!115418617427"><img src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg" alt="" width="40" height="40"/></a>
+<a href="https://www.adobe.com/co/products/indesign.html"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/indesign.svg" alt="" width="40" height="40"/></a>
+<a href="https://www.adobe.com/co/products/premiere.html"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro.svg" alt="" width="40" height="40"/></a>
 </div>
 <hr />
 <div align="center">
